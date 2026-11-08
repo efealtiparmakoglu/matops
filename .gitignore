@@ -2,3 +2,5 @@
 *.o
 plot_tests
 .DS_Store
+/mat_tests
+/mat_tests
